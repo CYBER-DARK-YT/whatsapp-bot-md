@@ -82,7 +82,7 @@ src="https://readme-typing-svg.herokuapp.com/?size=35&width=800&lines=Dark-bot+b
 
 # `Scan QR Code For Session`
  
-<a href="https://alien-alfa-md.up.railway.app"><img title="CYBER-DARK-YT" src="https://repl.it/badge/github/quiec/whatsasena" width="300"></a>
+<a href="https://levanter.up.railway.app/md"><img title="CYBER-DARK-YT" src="https://repl.it/badge/github/quiec/whatsasena" width="300"></a>
   <br><br><br>
 
 2. You will get a session id in whatsapp, copy id only.
