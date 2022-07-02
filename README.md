@@ -12,6 +12,68 @@ src="https://readme-typing-svg.herokuapp.com/?size=35&width=800&lines=Dark-bot+b
 ![alt text](https://i.imgur.com/HLeNuO2.jpeg)
 
 
+<!--
+
+
+
+<p align="center">
+  <a href="https://github.com/alien-Alfa"><img title="Support" src="https://img.shields.io/badge/⚠️INFO-fixing%20This%20reop/%20it%20will%20be%20public%20from%2010pm-cyan.svg?style=for-the-badge&logo=xcode" /></a>
+</p>
+
+
+
+
+ -->
+
+
+
+<p align="left">
+  <a href="https://github.com/alien-Alfa"><img title="Support" src="https://img.shields.io/badge/maintained-yes-cyan.svg?style=for-the-badge&logo=xcode" /></a>
+</p>
+
+
+
+
+
+
+<br>
+<p align="left">
+  <a href="https://github.com/alien-Alfa"><img title="Support" src="https://img.shields.io/badge/current%20Status-Updates%20Are%20coming%20soon!-orange.svg?style=for-the-badge&logo=xcode" /></a>
+</p>
+<br>
+<p align="left">
+  <a href="https://github.com/alien-Alfa"><img title="Support" src="https://img.shields.io/badge/next%20update-undefined!-green.svg?style=for-the-badge&logo=xcode" /></a>
+</p>
+
+
+
+<!---->
+
+
+
+
+<p align="center">
+  <a href="https://www.instagram.com/_the_soul_rider_/"><img src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/img/Bungee%20Shades.png?raw=true" width="500" alt="Profile"/> </a>
+</p>
+
+<p align="center">
+<strong>ＡＬＩＥＮ ＡＬＦＡ－ＭＤ</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/alien-Alfa"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v1-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
+</p>
+
+<p align="center">
+<a href="https://www.youtube.com/c/alienalfa"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=blue"></a> &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=WhatsAppBot-MD&label=VIEWS&style=flat-square&color=blue" />
+</p>
+</p>
+
+<p align="center">
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2FAlien-alfa%2FWhatsAppBot-MD?ref=badge_small" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FAlien-alfa%2FWhatsAppBot-MD.svg?type=small"/></a>
+</p>
+
 ### Setup
 
 
