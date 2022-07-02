@@ -1,5 +1,14 @@
 ### WhatsApp MD Dark bot
 
+src="https://readme-typing-svg.herokuapp.com/?size=35&width=800&lines=w3b_cr4wl+by+47hx1-53r"
+            alt="Typing SVG"
+        />
+    </a>
+</p>
+
+![alt text](https://i.imgur.com/HLeNuO2.jpeg)
+
+
 ### Setup
 
 1. Click [SCAN](https://levanter.up.railway.app/md) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
