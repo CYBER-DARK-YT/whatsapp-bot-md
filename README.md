@@ -14,7 +14,14 @@ src="https://readme-typing-svg.herokuapp.com/?size=35&width=800&lines=Dark-bot+b
 
 ### Setup
 
-1. Click [SCAN](https://levanter.up.railway.app/md) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
+
+# `❗❗FORK THIS BEFORE PROCEEDING`
+ 
+ `Use This Button To Fork Now`
+  
+  <a href="https://github.com/CYBER-DARK-YT/whatsapp-bot-md/fork"><img title="ＡＬＩＥＮ ＡＬＦＡ" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/img/pngegg.png?raw=true" width="200"></a>
+<br>
+
 2. You will get a session id in whatsapp, copy id only.
 3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
 4. Click [FORK](https://github.com/CYBER-DARK-YT/whatsapp-bot-md/fork)
