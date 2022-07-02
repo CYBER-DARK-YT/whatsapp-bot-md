@@ -5,7 +5,7 @@
 		"whatsapp",
 		"bot"
 	],
-	"repository": "https://github.com/CYBER-DARK-YT/Dark-Bot",
+	"repository": "https://github.com/CYBER-DARK-YT/whatsapp-bot-md",
 	"stack": "container",
 	"env": {
 		"ALWAYS_ONLINE": {
