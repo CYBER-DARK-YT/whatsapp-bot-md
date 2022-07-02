@@ -1,6 +1,9 @@
-### WhatsApp MD Dark bot
-
-src="https://readme-typing-svg.herokuapp.com/?size=35&width=800&lines=w3b_cr4wl+by+47hx1-53r"
+### WhatsApp MD Dark Bot 
+## <!-- Typing SVG -->
+<p align="center">
+    <a href="https://github.com/CYBER-DARK-YT">
+        <img
+src="https://readme-typing-svg.herokuapp.com/?size=35&width=800&lines=Dark-bot+by+CYBER-DARK-YT"
             alt="Typing SVG"
         />
     </a>
