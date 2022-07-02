@@ -1,4 +1,4 @@
-### WhatsApp MD user bot
+### WhatsApp MD Dark bot
 
 ### Setup
 
