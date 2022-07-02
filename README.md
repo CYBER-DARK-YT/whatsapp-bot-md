@@ -99,6 +99,6 @@ If You don't have a account in [Heroku](https://signup.heroku.com/), Create a ac
 
 ### Thanks To
 
--[lyfe00011](https://github.com/lyfe00011) for [LyFE bot](https://github.com/lyfe00011/whatsapp-bot-md)
+- [lyfe00011](https://github.com/lyfe00011) for [LyFE bot](https://github.com/lyfe00011/whatsapp-bot-md)
 - [Yusuf Usta](https://github.com/Quiec) for [WhatsAsena](https://github.com/yusufusta/WhatsAsena)
 - [@adiwajshing](https://github.com/adiwajshing) for [Baileys](https://github.com/adiwajshing/Baileys)
