@@ -88,7 +88,7 @@ src="https://readme-typing-svg.herokuapp.com/?size=35&width=800&lines=Dark-bot+b
 # ` You will get a session id in whatsapp, copy id only`
 
 
-# `If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account`
+If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
 
 
  # `Deploy In Heroku`
