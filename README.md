@@ -85,12 +85,15 @@ src="https://readme-typing-svg.herokuapp.com/?size=35&width=800&lines=Dark-bot+b
 <a href="https://levanter.up.railway.app/md"><img title="CYBER-DARK-YT" src="https://repl.it/badge/github/quiec/whatsasena" width="300"></a>
   <br><br><br>
 
-2. You will get a session id in whatsapp, copy id only.
+2.# ` You will get a session id in whatsapp, copy id only`
 3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
-4. Click [FORK](https://github.com/CYBER-DARK-YT/whatsapp-bot-md/fork)
-5. Now [DEPLOY](https://levanter.up.railway.app/dmd)
+4. Click [FORK](https://github.com/CYBER-DARK-YT/whatsapp-bot-m
 
-   <a href="https://chat.whatsapp.com/Jl6U29pBwmWLG3OOOfdPPt"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+ # `Deploy In Heroku`
+
+
+<a href="https://levanter.up.railway.app/dmd"><img title="CYBER-DARK-YT" src="https://www.herokucdn.com/deploy/button.svg" width="400"></a>
+ 
 
 ### Thanks To
 
