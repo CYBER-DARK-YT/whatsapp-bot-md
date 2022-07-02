@@ -56,7 +56,6 @@ src="https://readme-typing-svg.herokuapp.com/?size=35&width=800&lines=Dark-bot+b
   
 </p>
 
-![alt text](https://i.imgur.com/HLeNuO2.jpeg)
 
 <p align="center">
 <strong>CYBER DARK －ＭＤ</strong>
