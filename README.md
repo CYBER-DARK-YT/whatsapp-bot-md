@@ -80,6 +80,11 @@ src="https://readme-typing-svg.herokuapp.com/?size=35&width=800&lines=Dark-bot+b
   <a href="https://github.com/CYBER-DARK-YT/whatsapp-bot-md/fork"><img title="ＡＬＩＥＮ ＡＬＦＡ" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/img/pngegg.png?raw=true" width="200"></a>
 <br>
 
+# `Scan QR Code For Session`
+ 
+<a href="https://alien-alfa-md.up.railway.app"><img title="CYBER-DARK-YT" src="https://repl.it/badge/github/quiec/whatsasena" width="300"></a>
+  <br><br><br>
+
 2. You will get a session id in whatsapp, copy id only.
 3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
 4. Click [FORK](https://github.com/CYBER-DARK-YT/whatsapp-bot-md/fork)
