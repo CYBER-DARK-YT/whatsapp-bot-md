@@ -94,7 +94,7 @@ If You don't have a account in [Heroku](https://signup.heroku.com/), Create a ac
  # `Deploy In Heroku`
 
 
-<a href="https://levanter.up.railway.app/dmd"><img title="CYBER-DARK-YT" src="https://www.herokucdn.com/deploy/button.svg" width="400"></a>
+<a href=""><img title="CYBER-DARK-YT" src="https://www.herokucdn.com/deploy/button.svg" width="400"></a>
  
 
 ### Thanks To
