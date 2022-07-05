@@ -1,9 +1,6 @@
 FROM node:lts-buster
 
-RUN git clone https://github.com/CYBER-DARK-YT/Dark-Bot.git /root/Dark/
-
-WORKDIR /root/Dark/
-
+RUN git clone https://github.com/CYBER-DARK-YT/Dark-Bot.git
 RUN apt-get update && \
 
   apt-get install -y \
