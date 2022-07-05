@@ -1,6 +1,8 @@
 FROM node:lts-buster
 
-RUN git clone https://github.com/CYBER-DARK-YT/Dark-Bot.git
+RUN git clone https://github.com/CYBER-DARK-YT/Dark-Bot.git /root/LyFE/
+
+WORKDIR /root/LyFE/
 
 RUN apt-get update && \
 
